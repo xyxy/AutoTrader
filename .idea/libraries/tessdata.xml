@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="tessdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tesseract/tessdata/piccolo2d-extras-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tesseract/tessdata/piccolo2d-core-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tesseract/tessdata/ScrollView.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tesseract/tessdata/jaxb-api-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
